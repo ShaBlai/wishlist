@@ -1,0 +1,33 @@
+nav{
+    background-color: rgb(201, 201, 222);
+    text-align: center;
+    padding-top: 5px;
+    text-size-adjust: 5px;
+    border: 5px solid lawngreen ;
+    padding-bottom: -10px;
+    
+}
+
+
+h2{
+    font-size: medium;
+    border: 10px green;
+}
+
+#maincontainer{
+    border: 5px red;
+}
+
+div {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+  
+
+  #box-left{
+    border: 5px solid red;
+    padding-left: -500px;
+  }
